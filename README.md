@@ -7,7 +7,7 @@
 - Created a scatter plot between all the data variables 
 
 1. More Data, More Dynamics
-Included more demographics and more risk factors, placed additional labels in the scatter plot and gave them click events so that users can decide which data to display. Animated the transitions for your circles' locations as well as the range of your axes.
+Included more demographics and more risk factors, placed additional labels in the scatter plot and gave them click events so that users can decide which data to display. Animated the transitions for  circles' locations as well as the range of axes.
 
 ![1-Logo](Images/7-animated-scatter.gif	)
 
